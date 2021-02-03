@@ -1,0 +1,63 @@
+h1 {
+  background-color: rgb(97, 97, 150);
+}
+
+h1#my-header {
+  background-color: #e27e7e;
+  color: darkblue;
+}
+p {
+  line-height: 1.5;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.redxx {
+  color: brown;
+}
+
+.bold {
+  color: crimson;
+}
+
+span {
+  font-size: small;
+  background-color: darkcyan;
+  line-height: 1.5px;
+}
+
+div span {
+  font-size: unset;
+}
+
+h1.quadriculado,
+h1#quariculado {
+  border: 1px solid blue;
+}
+
+ul li:hover {
+  background-color: greenyellow;
+  clip-path: stroke-box;
+}
+
+div.test {
+  width: 200px;
+  height: 200px;
+  background-color: red;
+  border-style: blue 5px;
+  font-family: monospace;
+  overflow: auto;
+  padding: 15px;
+}
+
+div.test2 {
+  width: 200px;
+  height: 200px;
+}
+
+span.test2 {
+  width: 200px;
+  height: 200px;
+}
+div.code {
+  padding: 15rem;
+}
