@@ -1,0 +1,18 @@
+* {
+  margin: 10px;
+  padding: 5px;
+}
+
+nav {
+  background-color: brown;
+  font-size: x-large;
+  color: black;
+  display: inline-table;
+  border-radius: 30px;
+}
+
+header.hamburguer :hover {
+  display: none;
+  background-color: blueviolet;
+  border: dashed;
+}
