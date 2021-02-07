@@ -48,6 +48,11 @@ tem ua lista de tags semanticas para lista
 
 grid e flexbox
 
+- camelCase
+- PascalCase
+- snake_case
+- kebab-case
+
 BEM é uma metodologia para nomear classes CSS. Ajuda a organizar o projeto
 
 Breakpoints no breakpoints para 'mudança' de estado dependendo do tamanho da tela
@@ -56,3 +61,12 @@ Google map genetrator (pra baixar uma imagen pra colocar no site)
 
 Para dar um placeholder só passando o tamanho
 https://via.placeholder.com/300
+
+Web Brutalismo -> movimento para não padronizar a web
+
+https://phet.colorado.edu/pt_BR/
+
+https://bruno-simon.com/#cybertruck
+
+Ebook grátis Bootstrap
+https://novatec.com.br/ebookMaujor.php
